@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeyxNope
 - 👀 I’m interested in gaming and i'm a motorcycle enthusiast ! 
 - 🌱 I’m currently learning German and programming.
-- 💞️ I’m looking to collaborate on a project I've been working on for at least 1 year
+- I’m looking to collaborate on a project I've been working on for at least 1 year
 - 📫 How to reach me ...
 
 <!--
